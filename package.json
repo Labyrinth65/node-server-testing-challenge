@@ -9,15 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/LambdaSchool/node-server-testing.git"
+		"url": "git+https://github.com/Labyrinth65/node-server-testing-challenge.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/LambdaSchool/node-server-testing/issues"
+		"url": "https://github.com/Labyrinth65/node-server-testing-challenge/issues"
 	},
-	"homepage": "https://github.com/LambdaSchool/node-server-testing#readme",
+	"homepage": "https://github.com/Labyrinth65/node-server-testing-challenge#readme",
 	"devDependencies": {
 		"cross-env": "^5.2.0",
 		"jest": "^24.8.0",
